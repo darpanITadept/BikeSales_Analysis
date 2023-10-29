@@ -4,7 +4,8 @@
 
 [Tableau Viz Link](https://public.tableau.com/app/profile/darpan.choudhary/viz/BikeSalesAnalysis_16985812629360/SalesDashboard?publish=yes)
 
-*Tableau Screenshot - Click to View the Interactive Visualization*
+*Tableau Screenshot - <img width="1416" alt="Screenshot 2023-10-29 at 9 41 29 AM" src="https://github.com/darpanITadept/BikeSales_Analysis/assets/112990024/6e8065a2-7290-4ab7-a439-203881581e51">
+*
 
 ## Overview
 
